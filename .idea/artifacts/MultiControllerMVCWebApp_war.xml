@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MultiControllerMVCWebApp:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/MultiControllerMVCWebApp_war</output-path>
+    <root id="archive" name="MultiControllerMVCWebApp_war.war">
+      <element id="artifact" artifact-name="MultiControllerMVCWebApp:war exploded" />
+    </root>
+  </artifact>
+</component>
